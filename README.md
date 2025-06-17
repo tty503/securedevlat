@@ -1,2 +1,0 @@
-# securedevlat
-Landing Page 
